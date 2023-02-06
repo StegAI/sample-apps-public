@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "javascript-app",
+  "version": "1.0.0",
+  "description": "Sample JavaScript app serving as an example of Steg.AI's API service",
+  "main": "javascript-sample-app.js",
+  "scripts": {
+    "test": "node javascript-sample-app.js"
+  },
+  "author": "Richard Cho",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"  
+  }
+}
